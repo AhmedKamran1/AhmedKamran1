@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AhmedKamran1.AhmedKamran1" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I+am+Ahmed+Kamran!;Frontend+Web+App+Developer+⚡" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=6000&lines=Hi+There!+👋;+I+am+Ahmed+Kamran!;A+Passionate+Frontend+Web+App+Developer+⚡;" />
 </h1>
 
-<h3 align="center">A passionate software developer having expertise in Web App development from Karachi, Pakistan</h3>
+<h3 align="center">A passionate software developer having expertise in Frontend Web App development from Karachi, Pakistan</h3>
 
 <br/>
 
@@ -19,17 +19,17 @@
  </div>
  
 <div align="center"> 
-<label for="email">Email me at ahmed.kamran11122@gmail.com</label>
+
   <a id="email" href="mailto:ahmed.kamran11122@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" title="Email me at ahmed.kamran11122@gmail.com"/>
   </a>
-    <label for="linkedin">Connect with me at LinkedIn</label>
+
   <a id="linkedin" href="https://www.linkedin.com/in/ahmed-kamran-1742b4239/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Connect with me at LinkedIn" target="_blank"/>
   </a>
-    <label for="portfolio">View My Portfolio</label>
+   
   <a id="portfolio" href="https://ahmed-blog-app.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" title="View My Portfolio" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
