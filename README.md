@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Connect with me at LinkedIn" target="_blank"/>
   </a>
    
-  <a id="portfolio" href="https://ahmed-blog-app.vercel.app/" target="_blank">
+  <a id="portfolio" href="https://ahmed-portfolio-omega.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" title="View My Portfolio" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
