@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AhmedKamran1.AhmedKamran1" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=6000&lines=Hi+There!+👋;+I+am+Ahmed+Kamran!;A+Passionate+Frontend+Web+App+Developer+⚡;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=6000&lines=Hi+There!+👋;+I+am+Ahmed+Kamran!;A+Passionate+Fullstack+Web+App+Developer+⚡;" />
 </h1>
 
 <h3 align="center">A passionate software developer having expertise in Frontend Web App development from Karachi, Pakistan</h3>
@@ -14,7 +14,7 @@
 
  ⚡ My Current Primary Tech Stack includes **Next.js, React.js, Material UI**
  
- 🌱 I am currently learning **Express.js, MongoDB** to shift towards fullstack development
+ 🌱 I am currently learning **Express.js, MongoDB** to enhance my backend skills
 
  </div>
  
@@ -39,7 +39,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,c,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
