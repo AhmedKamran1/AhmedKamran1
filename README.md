@@ -12,9 +12,7 @@
  
  🔭 I am currently looking for **Opportunities**
 
- ⚡ My Current Primary Tech Stack includes **Next.js, React.js, Material UI**
- 
- 🌱 I am currently learning **Express.js, MongoDB** to enhance my backend skills
+ ⚡ My Current Primary Tech Stack includes **Next.js, React.js, Material UI, Express.js, MongoDB**
 
  </div>
  
