@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=6000&lines=Hi+There!+👋;+I+am+Ahmed+Kamran!;A+Passionate+Fullstack+Web+App+Developer+⚡;" />
 </h1>
 
-<h3 align="center">A passionate software developer having expertise in Frontend Web App development from Karachi, Pakistan</h3>
+<h3 align="center">A passionate software developer having expertise in Fullstack Web App development from Karachi, Pakistan</h3>
 
 <br/>
 
